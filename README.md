@@ -1,5 +1,5 @@
 # EasyPDFReader-Android-App-Kotlin
-# This is a soft fork by `Aalishan Ansari` a.k.a `Aalishan565`
+# This is a soft fork originally created by `Aalishan Ansari` a.k.a `Aalishan565`
 	https://github.com/Aalishan565/EasyPDFReader-Android-App-Kotlin
 
 EasyPDFReader is a simple and efficient PDF reader application for Android, built using Kotlin. It allows users to browse and read PDF files stored on their device with ease.
